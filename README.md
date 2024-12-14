@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yari201/Sistema-respiratorio-Control-de-monoxido-de-carbono-en-la-sangre)
 
-# Proyecto Final: Control de monóxido de carbono en sangre
+# Control de monóxido de carbono en sangre
 
 ## Estudiantes
 Escobedo Tellez Yadhira Lisset;Gonzalez Morales Fabian;Hernandez Peraza Paola Giselle;Zabala Silva Rosa Helena
