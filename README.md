@@ -1,10 +1,13 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yari201/Sistema-respiratorio-Control-de-monoxido-de-carbono-en-la-sangre)
 
-# Nombre del proyecto
+# Proyecto Final: Control de monóxido de carbono en sangre
 
 ## Estudiantes
-Nombres completos (en primer lugar el trabajo más, en último el que va a reprobar)
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx correo3@tectijuana.edu.mx
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; Nombre y número de 
+Escobedo Tellez Yadhira Lisset
+Gonzalez Morales Fabian
+Hernandez Peraza Paola Giselle
+Zabala Silva Rosa Helena
 
 ## Asignaturas o departmento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
@@ -18,7 +21,11 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+La mayoría de los accidentes causados por envenenamiento por monóxido de carbono (CO) se producen en los hogares y están relacionados a nuestras actividades diarias como cocinar y usar la calefacción. Debido a que el CO es un gas "invisible y silencioso" sus características no nos permiten, en muchos casos, que nos demos cuenta del peligro que éste presenta, resultando en envenenamiento por inhalación en cuestión de minutos.
+
+Dentro del sistema respiratorio, las vías respiratorias son divididas en dos categorías las cuales cuentan con resistencias mecánicas al fluido representadas por RC, que representa las vías respiratorias superiores que constan de nariz, cavidad nasal, faringe y laringe; y RP que se compone de las vías respiratorias inferiores que son la tráquea, bronquios y alvéolos, respectivamente. El efecto de la inercia al flujo de gas en las vías respiratorias centrales está dado por LC. El aire que ingresa a los alvéolos también produce una expansión de la cavidad de la pared torácica con el mismo volumen. Esto está representado por la conexión de las conformidades pulmonares (CL) y CM representando la liberación de CO a los tejidos en partes por millón. 
+
+A la entrada del sistema se observa una señal sinusoidal representativa del ciclo de inhalación y exhalación. Las presiones desarrolladas en el modelo pulmonar son Pao(t) en la apertura de la vía aérea pulmonar, PA (t) en los alvéolos.  El caudal volumétrico de aire que ingresa al sistema respiratorio está dado por Q(t) y el flujo entregado a los alvéolos por QA (t). Por lo tanto, el flujo derivado de los alvéolos debe ser Q(t) - QA (t). 
 
 ## Referencias principales
 [1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
