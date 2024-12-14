@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Control of carbon monoxide in the blood
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Yadhira Lisset
+    family-names: Escobedo Telez
+    email: yadhira.escobedo201@tectijuana.edu.mx
+  - given-names: Fabian
+    family-names: 'Gonzalez Morales '
+    email: fabian.gonzalez193@tectijuana.edu.mx
+  - given-names: Rosa Helena
+    family-names: 'Zabala Silva '
+    email: rosa.zavala201@tectijuana.edu.mx
+  - given-names: Paola Giselle
+    family-names: 'Hernandez Peraza '
+    email: paola.hernandez19@tectijuana.edu.mx
+abstract: >-
+  Final project on modeling physiological systems, control
+  of carbon monoxide in blood from its electrical diagram
+  with a PID controller.
