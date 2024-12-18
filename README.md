@@ -6,7 +6,7 @@
 Escobedo Tellez Yadhira Lisset;Gonzalez Morales Fabian;Hernandez Peraza Paola Giselle;Zabala Silva Rosa Helena
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: yadhira.escobedo201@tectijuana.edu.mx;fabian.gonzalez193@tectijuana.edu.mx;paola.hernandez19@tectijuana.edu.mx;rosa.zavala201@tectijuana.edu.mx
 
-## Asignaturas o departmento donde se puede usar la Actividad
+## Asignaturas o departamento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
 
 ## Información general
